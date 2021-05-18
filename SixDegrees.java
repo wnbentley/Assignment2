@@ -7,7 +7,7 @@ import org.apache.commons.csv.CSVRecord;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.JSONObject;
 import org.json.simple.JSONArray;
-
+//class
 public class SixDegrees {
 
     static Hashtable<String, LinkedList<String>> graph = new Hashtable<>(); //create hashtable representation of graph
